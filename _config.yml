@@ -85,7 +85,7 @@ author:
   bio              : "PhD Candidate for Environmental Science"
   location         : "Geneva, Switzerland"
   employer         : "University of Geneva"
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=fmPdEIsAAAAJ&hl=es"
   email            : "cesar.ordonez@unige.ch"
   researchgate     : "https://www.researchgate.net/profile/Cesar-Ordonez-5" # example: "https://www.researchgate.net/profile/yourprofile"
