@@ -6,7 +6,7 @@
 {% endif %}
 
 <div class="containerw3 containerw3-margin">
-      {% for img in gallery %}
+  {% for img in gallery %}
     {% if img.url %}
       <a href=
         {% if img.url contains "://" %}
@@ -34,4 +34,4 @@
         alt="{% if img.alt %}{{ img.alt }}{% endif %}">
     {% endif %}
   {% endfor %}
-</div
+</div>
