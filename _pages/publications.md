@@ -13,7 +13,12 @@ author_profile: true
 
 
 ## Journal Publications
-* B. Trewhela, N. Huneeus,M. Munizaga A. Mazzeo, L. Menutd, S. Mailler, M. Valari, **C. Ordóñez**
+* N. Huneeus, R. Lapere, A. Mazzeo, **C. Ordóñez**, N. Donoso, R. Muños, J. Rutlant
+<br>[Deep winter intrusions of urban black carbon into a canyon near Santiago, Chile: A pathway towards Andean glaciers](http://dx.doi.org/10.1016/j.envpol.2021.118124)
+<br>*Environmental Pollution*, 291, 2021.
+<br>
+
+* B. Trewhela, N. Huneeus, M. Munizaga A. Mazzeo, L. Menutd, S. Mailler, M. Valari, **C. Ordóñez**
 <br>[Analysis of exposure to fine particulate matter using passive data from public transport](https://doi.org/10.1016/j.atmosenv.2019.116878)
 <br>*Atmospheric Environment*, 215, 2019.
 <br>

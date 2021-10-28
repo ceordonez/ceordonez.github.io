@@ -44,6 +44,9 @@ The aim on this project was to characterize physical and biochemical processes i
 * **Teaching Assistant** \|2012\| Hydraulics, Faculty of Physical and Mathematical Sciences, University of Chile, Chile.
 * **Teaching Assistant** \|2012\| Fluid Mechanics, Faculty of Physical and Mathematical Sciences, University of Chile, Chile.
 
+### Awards
+* **Polar access fund 2021**. Arctic Change: Resolving methane and CO2 concentrations and their fluxes in Baffin Bay. Swiss Polar Institute (SPI)
+
 ### Supervision of student project
 * **Co-advisor** \|2019-2020\| *Methane fluxes from littoral sediment of a eutrophic swiss lake*. Master thesis. Ms. Aurora Pinto.
 * **Co-advisor** \|2019-2020\| *Surces and fate of aerobic methane production: a study on a small eutrophic lake*. Master thesis. Ms. Alexandrine Massot.
