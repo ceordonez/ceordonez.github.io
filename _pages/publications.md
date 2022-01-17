@@ -45,6 +45,15 @@ author_profile: true
 <br>
 
 ## Conferences Publications
+* **C. Ordóñez**, T. DelSontro, T. Langenegger, D. Donis, A. Massot, A. Pinto and D.F. McGinnis.
+<br>Methane Paradox in pre-alpine lakes: evaluation of oxic methane production using two mass balance models
+<br>*ASLO 2021 Aquatic meeting*, 2021.
+<br>
+
+* **C. Ordóñez**, T. DelSontro, T. Langenegger, D. Donis, A. Massot, A. Pinto and D.F. McGinnis.
+<br>Methane Paradox in pre-alpine lakes evaluated with two mass balance approaches
+<br>*PPNW 2021 Seminar*, 2021.
+
 * **C. Ordóñez**, T. DelSontro, T. Langenegger, D. Donis, A. Massot, A. Pinto, A. Gelbmann and D.F. McGinnis.
 <br>Oxic methane production: filling gaps in the methane lake budget.
 <br>*GLEON 21.5 Meeting (Poster)*, 2020.

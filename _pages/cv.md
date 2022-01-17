@@ -35,6 +35,8 @@ The aim on this project was to characterize physical and biochemical processes i
   * Performed the analysis and comparison of field data with laboratory experiments for oxygen transportation in salty lagoons.
 
 ### Teaching
+* **Teacher** \|2021\| Alpine environment and society, Faculty of Science, University of Geneva, Switzerland.
+  <br><small>Greenhouse gases exchange in alpine lakes. This course is part of the Master of Science in the Envoronmental Sciences program. </small>
 * **Teaching Assistant** \|2020\| Field Course in alpine lakes, University of Geneva, Switzerland.
   <br><small>Greenhouse gases exchange in alpine lakes.</small>
 * **Teaching Assistant** \|2018\| Evolen field course, University of Geneva, Switzerland.
@@ -44,7 +46,7 @@ The aim on this project was to characterize physical and biochemical processes i
 * **Teaching Assistant** \|2012\| Hydraulics, Faculty of Physical and Mathematical Sciences, University of Chile, Chile.
 * **Teaching Assistant** \|2012\| Fluid Mechanics, Faculty of Physical and Mathematical Sciences, University of Chile, Chile.
 
-### Awards
+### Grant
 * **Polar access fund 2021**. Arctic Change: Resolving methane and CO2 concentrations and their fluxes in Baffin Bay. Swiss Polar Institute (SPI)
 
 ### Supervision of student project
@@ -53,9 +55,10 @@ The aim on this project was to characterize physical and biochemical processes i
 
 Skills
 ======
-
+* Programming
+  * Git, Bash (basic), Java (basic)
 * Scientific programming
-  * Python, Matlab, Scilab
+  * Python, Matlab, Scilab, R (basic)
 * Atmospheric Models
   * WRF
 * Writing
