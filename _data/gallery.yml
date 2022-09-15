@@ -1,4 +1,24 @@
 gallery:
+  - url: https://500px.com/photo/1052194330/guiando-la-mirada-by-cesar-ordonez
+    image_path: https://drscdn.500px.org/photo/1052194330/m%3D900/v2?sig=e1f18901e58c2394ac271799fd61af05c0c842f8b4c369e11f35abd8e2fe5e6b
+    alt: "Guiando la mirada by Cesar Ordóñez on 500px.com"
+    title: "Guiando la mirada"
+  - url: https://500px.com/photo/1052189634/olor-a-tierra-mojada-by-cesar-ordonez
+    image_path: https://drscdn.500px.org/photo/1052189634/m%3D900/v2?sig=19f482262b415b21885cc4a0aba6a81cf7d2c076bd77a337d80228dcc15eb2d6
+    alt: "Olor a tierra mojada by Cesar Ordóñez on 500px.com"
+    title: "Olor a tierra mojada"
+  - url: https://500px.com/photo/1035764028/sonando-despierto-by-cesar-ordonez
+    image_path: https://drscdn.500px.org/photo/1035764028/m%3D900/v2?sig=8386a847e0d3b3e66d73690c70b4c5d6b292788aa06fbb4a9d708895e60bcc82
+    alt: "Soñando despierto by Cesar Ordóñez on 500px.com"
+    title: "Soñando despierto"
+  - url: https://500px.com/photo/1033074335/nueva-esperanza-by-cesar-ordonez
+    image_path: https://drscdn.500px.org/photo/1033074335/m%3D900/v2?sig=ef66827daed0da9e369f6920197837591d396f827c9e5b719fdfb714bf1aa4a7
+    alt: "Nueva esperanza  by Cesar Ordóñez on 500px.com"
+    title: "Nueva esperanza"
+  - url: https://500px.com/photo/1030599667/surreal-forest-by-cesar-ordonez
+    image_path: https://drscdn.500px.org/photo/1030599667/m%3D900/v2?sig=45a57d2b717531599d450c8fa92dbf501d0e49a8d64d4b17075feb74b7039cee 
+    alt: "Surreal forest by Cesar Ordóñez on 500px.com"
+    title: "Surreal forest"
   - url: https://500px.com/photo/1029425635/adelantos-de-primavera-by-cesar-ordonez
     image_path: https://drscdn.500px.org/photo/1029425635/m%3D900/v2?sig=af0eaa062ae6a0a618368dd92fb2446a19a944c0a242dc5e0104e644b9cd954d
     alt: "Adelantos de primavera by Cesar Ordóñez on 500px.com"

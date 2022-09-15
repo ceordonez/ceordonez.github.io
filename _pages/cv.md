@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. Candidate on Environmental Science** \|2017-Present\| Aquatic Physics group, University of Geneva, Switzerland.
-  <br> Thesis: ”Deciphering the methane paradox: Determining the production, transport and fate of methane in the oxic surface layers in lakes”. Ph.D. supervisor: Daniel F. McGinnis
+* **Ph.D. on Environmental Sciences** \|2017-2022\| Aquatic Physics group, University of Geneva, Switzerland.
+  <br> Thesis: ”Oxic methane production dynamics in lakes”. Ph.D. supervisor: Daniel F. McGinnis
 * **Civil and Environmental Engineering Diploma** \|2012-2014\| FCFM, University of Chile, Chile.
   <br> Professional Engineer diploma in water resources engineering focused mainly on fluid dynamics.
 * **B.Sc. in Civil and Environmental Engineering** \|2008-2012\| FCFM, Universty of Chile, Chile.
@@ -24,6 +24,7 @@ Work experience
 ======
 
 ### Research Experience:
+* **Postdoctaral reasearcher** \|2022-Present\| Aquatic Physics group, University of Geneva, Switzerland.
 * **Research Assistant** \|2015-2017\| Center for Climate and Resilience Research (CR)2, University of Chile, Chile.
 The goal of this project is to study the transport of urban pollutants flowing into the Andean
 yosphere. My work consists in:
