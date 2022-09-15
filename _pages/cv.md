@@ -15,7 +15,7 @@ Education
   <br> Thesis: ”Oxic methane production dynamics in lakes”. Ph.D. supervisor: Daniel F. McGinnis
 * **Civil and Environmental Engineering Diploma** \|2012-2014\| FCFM, University of Chile, Chile.
   <br> Professional Engineer diploma in water resources engineering focused mainly on fluid dynamics.
-* **B.Sc. in Civil and Environmental Engineering** \|2008-2012\| FCFM, Universty of Chile, Chile.
+* **B.Sc. in Civil and Environmental Engineering** \|2008-2012\| FCFM, University of Chile, Chile.
 
 ### Courses and workshops
 * **Physical Limnology** \|2018\| Heildelberg University, Germany
@@ -24,10 +24,10 @@ Work experience
 ======
 
 ### Research Experience:
-* **Postdoctaral reasearcher** \|2022-Present\| Aquatic Physics group, University of Geneva, Switzerland.
+* **Postdoctoral researcher** \|2022-Present\| Aquatic Physics group, University of Geneva, Switzerland.
 * **Research Assistant** \|2015-2017\| Center for Climate and Resilience Research (CR)2, University of Chile, Chile.
 The goal of this project is to study the transport of urban pollutants flowing into the Andean
-yosphere. My work consists in:
+cryosphere. My work consists in:
   * The comparison and validation of the performance of weather forecasting and chemical models (WRF-CHIMERE) to simulate the transport of urban pollutants into the Andean cryosphere.
   * The development of a Python-based assessment tool to compare, semi-automatically, a group of model simulations against measurements.
 * **Research Assistant** \|2012-2014\|, Civil Engineering Department, University of Chile, Chile.
@@ -37,7 +37,7 @@ The aim on this project was to characterize physical and biochemical processes i
 
 ### Teaching
 * **Teacher** \|2021\| Alpine environment and society, Faculty of Science, University of Geneva, Switzerland.
-  <br><small>Greenhouse gases exchange in alpine lakes. This course is part of the Master of Science in the Envoronmental Sciences program. </small>
+  <br><small>Greenhouse gases exchange in alpine lakes. This course is part of the Master of Science in the Environmental Sciences program. </small>
 * **Teaching Assistant** \|2020\| Field Course in alpine lakes, University of Geneva, Switzerland.
   <br><small>Greenhouse gases exchange in alpine lakes.</small>
 * **Teaching Assistant** \|2018\| Evolen field course, University of Geneva, Switzerland.
@@ -51,8 +51,8 @@ The aim on this project was to characterize physical and biochemical processes i
 * **Polar access fund 2021**. Arctic Change: Resolving methane and CO2 concentrations and their fluxes in Baffin Bay. Swiss Polar Institute (SPI)
 
 ### Supervision of student project
-* **Co-advisor** \|2019-2020\| *Methane fluxes from littoral sediment of a eutrophic swiss lake*. Master thesis. Ms. Aurora Pinto.
-* **Co-advisor** \|2019-2020\| *Surces and fate of aerobic methane production: a study on a small eutrophic lake*. Master thesis. Ms. Alexandrine Massot.
+* **Co-advisor** \|2019-2020\| *Methane fluxes from littoral sediment of a eutrophic Swiss lake*. Master thesis. Ms. Aurora Pinto.
+* **Co-advisor** \|2019-2020\| *Sources and fate of aerobic methane production: a study on a small eutrophic lake*. Master thesis. Ms. Alexandrine Massot.
 
 Skills
 ======
@@ -64,6 +64,6 @@ Skills
   * WRF
 * Writing
   * Latex, Markdown, Office.
-* Lenguages
+* Languages
   * Spanish: Native
   * English: Advanced
