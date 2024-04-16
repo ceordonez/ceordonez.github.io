@@ -13,6 +13,16 @@ author_profile: true
 
 
 ## Journal Publications
+* E. L. Suarez, L. De Ventura, A. Stöckli, **C. Ordóñez**, M. K. Thomas, B. W. Ibelings and D. F. McGinnis.
+<br>  [The emergence and dominance of Planktothrix rubescens as an hypolimnetic cyanobacterium in response to re-oligotrophication of a deep peri-alpine lake.](https://onlinelibrary.wiley.com/doi/abs/10.1002/lno.12351)
+<br> *Limnology and Oceanography*, 6, 2023.
+<br>
+
+* **C. Ordóñez**, T. DelSontro, T. Langenegger, D. Donis, E. L. Suarez and D. F. McGinnis.
+<br> [Evaluation of the methane paradox in four adjacent pre-alpine lakes across a trophic gradient.](https://www.nature.com/articles/s41467-023-37861-7)
+<br> *Nature Communication*, 14, 2023
+<br>
+
 * N. Huneeus, R. Lapere, A. Mazzeo, **C. Ordóñez**, N. Donoso, R. Muños, J. Rutlant
 <br>[Deep winter intrusions of urban black carbon into a canyon near Santiago, Chile: A pathway towards Andean glaciers](http://dx.doi.org/10.1016/j.envpol.2021.118124)
 <br>*Environmental Pollution*, 291, 2021.
